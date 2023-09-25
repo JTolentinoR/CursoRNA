@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jtole/OneDrive/Documents/Programacion/GitHub/CursoRNA/DigitClassifier/mlruns/0/2ea4876fae95436eb83f329a7aa89f34/artifacts
+end_time: 1695679277429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ea4876fae95436eb83f329a7aa89f34
+run_name: worried-snake-485
+run_uuid: 2ea4876fae95436eb83f329a7aa89f34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695678894255
+status: 3
+tags: []
+user_id: jtole
