@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jtole/OneDrive/Documents/Programacion/GitHub/CursoRNA/DigitClassifier/mlruns/0/0f1db130a9d04b12bda1775e19d6bacf/artifacts
+end_time: 1695684014714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f1db130a9d04b12bda1775e19d6bacf
+run_name: bittersweet-grouse-5
+run_uuid: 0f1db130a9d04b12bda1775e19d6bacf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695683975013
+status: 4
+tags: []
+user_id: jtole

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jtole/OneDrive/Documents/Programacion/GitHub/CursoRNA/DigitClassifier/mlruns/0/30d68865ba174a438b1fab78b10ca241/artifacts
+end_time: 1695684181954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30d68865ba174a438b1fab78b10ca241
+run_name: suave-toad-819
+run_uuid: 30d68865ba174a438b1fab78b10ca241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695684175204
+status: 4
+tags: []
+user_id: jtole

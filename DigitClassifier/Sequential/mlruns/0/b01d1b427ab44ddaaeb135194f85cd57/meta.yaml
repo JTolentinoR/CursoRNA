@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jtole/OneDrive/Documents/Programacion/GitHub/CursoRNA/DigitClassifier/mlruns/0/b01d1b427ab44ddaaeb135194f85cd57/artifacts
+end_time: 1695683902807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b01d1b427ab44ddaaeb135194f85cd57
+run_name: placid-bat-972
+run_uuid: b01d1b427ab44ddaaeb135194f85cd57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695683879183
+status: 4
+tags: []
+user_id: jtole

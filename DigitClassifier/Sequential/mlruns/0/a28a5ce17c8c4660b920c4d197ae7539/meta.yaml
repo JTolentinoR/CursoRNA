@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jtole/OneDrive/Documents/Programacion/GitHub/CursoRNA/DigitClassifier/mlruns/0/a28a5ce17c8c4660b920c4d197ae7539/artifacts
+end_time: 1695683962088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a28a5ce17c8c4660b920c4d197ae7539
+run_name: polite-trout-173
+run_uuid: a28a5ce17c8c4660b920c4d197ae7539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695683934453
+status: 4
+tags: []
+user_id: jtole
